@@ -18,6 +18,7 @@ Now that you've gotten your hands dirty and learned some real jQuery, it's time 
 
 ## Student Solutions
 * Add your solution below this line!
+* [Charles solution]| [View in browser](https://whynotfr.github.io/)
 * [Axel's solution](https://github.com/afuh/react-browsing) | [View in browser](https://afuh.github.io/react-browsing/)
 * [jamie's solution](https://github.com/Jberczel/odin-javascript/tree/master/restaurant) | [View in browser](http://htmlpreview.github.io/?https://github.com/Jberczel/odin-javascript/blob/master/restaurant/index.html)
 * [Afshin M's solution](https://github.com/afshinator/js-tabbedPane) | [View in browser](http://htmlpreview.github.io/?https://github.com/afshinator/js-tabbedPane/blob/master/index.html)
